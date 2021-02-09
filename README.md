@@ -1,0 +1,2 @@
+# econergy-calculator
+Econergy is Smart Renewable Energy Startup that leverages on Technology like Data science (Ds), Artificial intelligence (Ai), Internet of things (IoT). High tech innovative manufacturing methods, collaboration and partnership to create smarter renewable energy solutions that is affordable and accessible to all regardless of the level of income and location. (Rural and Urban). This is simple design and plan calculator
